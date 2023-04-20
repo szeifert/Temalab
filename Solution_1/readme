@@ -1,1 +1,5 @@
+Repülőjegy ár becslés
 
+main.ipynb - Jupyter notebook, itt lépésről lépésre folyik a feladat megoldás, a csomagok importálása
+és a kiértékelés.
+data.csv - használt adatokat tartalmazó táblázat.
